@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">MBTIApp</string>
+
+    <string name="mbti_name">Name</string>
+    <string name="mbti_type">MBTI</string>
+    <string name="general_desc">This is General Description</string>
+    <string name="object_received">Object Received</string>
+    <string name="who_are_they">Who are they?</string>
+    <string name="hi">Hi!</string>
+    <string name="im">I\'m Entrepreneurrr</string>
+    <string name="description">Architect is an introvert</string>
+    <string name="share">Share</string>
+    <string name="profile">Profile</string>
+    <string name="name_profile">Aaliyah Farah Adibah</string>
+    <string name="email_profile">aaliyahfarahadibah@Gmail.com</string>
+    <string name="you_may_know">Architect You May Know</string>
+    <string name="people_mbti">- Frederich Nietzsche \n- Michelle Obama</string>
+
+    <string-array name="data_name">
+        <item>Architect</item>
+        <item>Logician</item>
+        <item>Commander</item>
+        <item>Debater</item>
+        <item>Advocate</item>
+        <item>Mediator</item>
+        <item>Protagonist</item>
+        <item>Campaigner</item>
+        <item>Logistician</item>
+        <item>Defender</item>
+        <item>Executive</item>
+        <item>Consul</item>
+        <item>Virtuoso</item>
+        <item>Adventurer</item>
+        <item>Entrepreneur</item>
+        <item>Entertainer</item>
+    </string-array>
+
+    <string-array name="data_type">
+        <item>INTJ-A / INTJ-T</item>
+        <item>INTP-A / INTP-T</item>
+        <item>ENTJ-A / ENTJ-T</item>
+        <item>ENTP-A / ENTP-T</item>
+        <item>INFJ-A / INFJ-T</item>
+        <item>INFP-A / INFP-T</item>
+        <item>ENFJ-A / ENFJ-T</item>
+        <item>ENFP-A / ENFP-T</item>
+        <item>ISTJ-A / ISTJ-T</item>
+        <item>ISFJ-A / ISFJ-T</item>
+        <item>ESTJ-A / ESTJ-T</item>
+        <item>ESFJ-A / ESFJ-T</item>
+        <item>ISTP-A / ISTP-T</item>
+        <item>ISFP-A / ISFP-T</item>
+        <item>ESTP-A / ESTP-T</item>
+        <item>ESFP-A / ESFP-T</item>
+    </string-array>
+
+    <string-array name="data_generaldesc">
+        <item>Imaginative and strategic thinkers, with a plan for everything.</item>
+        <item>Innovative inventors with an unquenchable thirst for knowledge.</item>
+        <item>Bold, imaginative and strong-willed leaders, always finding a way – or making one.</item>
+        <item>Smart and curious thinkers who cannot resist an intellectual challenge.</item>
+        <item>Quiet and mystical, yet very inspiring and tireless idealists.</item>
+        <item>Poetic, kind and altruistic people, always eager to help a good cause.</item>
+        <item>Charismatic and inspiring leaders, able to mesmerize their listeners.</item>
+        <item>Enthusiastic, creative and sociable free spirits, who can always find a reason to smile.</item>
+        <item>Practical and fact-minded individuals, whose reliability cannot be doubted.</item>
+        <item>Very dedicated and warm protectors, always ready to defend their loved ones.</item>
+        <item>Excellent administrators, unsurpassed at managing things – or people.</item>
+        <item>Extraordinarily caring, social and popular people, always eager to help.</item>
+        <item>Bold and practical experimenters, masters of all kinds of tools.</item>
+        <item>Flexible and charming artists, always ready to explore and experience something new.</item>
+        <item>Smart, energetic and very perceptive people, who truly enjoy living on the edge.</item>
+        <item>Spontaneous, energetic and enthusiastic people – life is never boring around them.</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>An Architect (INTJ) is a person with the Introverted, Intuitive, Thinking, and Judging personality traits. These thoughtful tacticians love perfecting the details of life, applying creativity and rationality to everything they do. Their inner world is often a private, complex one.</item>
+        <item>A Logician (INTP) is someone with the Introverted, Intuitive, Thinking, and Prospecting personality traits. These flexible thinkers enjoy taking an unconventional approach to many aspects of life. They often seek out unlikely paths, mixing willingness to experiment with personal creativity.</item>
+        <item>A Commander (ENTJ) is someone with the Extraverted, Intuitive, Thinking, and Judging personality traits. They are decisive people who love momentum and accomplishment. They gather information to construct their creative visions but rarely hesitate for long before acting on them.</item>
+        <item>A Debater (ENTP) is a person with the Extraverted, Intuitive, Thinking, and Prospecting personality traits. They tend to be bold and creative, deconstructing and rebuilding ideas with great mental agility. They pursue their goals vigorously despite any resistance they might encounter.</item>
+        <item>An Advocate (INFJ) is someone with the Introverted, Intuitive, Feeling, and Judging personality traits. They tend to approach life with deep thoughtfulness and imagination. Their inner vision, personal values, and a quiet, principled version of humanism guide them in all things.</item>
+        <item>A Mediator (INFP) is someone who possesses the Introverted, Intuitive, Feeling, and Prospecting personality traits. These rare personality types tend to be quiet, open-minded, and imaginative, and they apply a caring and creative approach to everything they do.</item>
+        <item>A Protagonist (ENFJ) is a person with the Extraverted, Intuitive, Feeling, and Judging personality traits. These warm, forthright types love helping others, and they tend to have strong ideas and values. They back their perspective with the creative energy to achieve their goals.</item>
+        <item>A Campaigner (ENFP) is someone with the Extraverted, Intuitive, Feeling, and Prospecting personality traits. These people tend to embrace big ideas and actions that reflect their sense of hope and goodwill toward others. Their vibrant energy can flow in many directions.</item>
+        <item>A Logistician (ISTJ) is someone with the Introverted, Observant, Thinking, and Judging personality traits. These people tend to be reserved yet willful, with a rational outlook on life. They compose their actions carefully and carry them out with methodical purpose.</item>
+        <item>A Defender (ISFJ) is someone with the Introverted, Observant, Feeling, and Judging personality traits. These people tend to be warm and unassuming in their own steady way. They’re efficient and responsible, giving careful attention to practical details in their daily lives.</item>
+        <item>An Executive (ESTJ) is someone with the Extraverted, Observant, Thinking, and Judging personality traits. They possess great fortitude, emphatically following their own sensible judgment. They often serve as a stabilizing force among others, able to offer solid direction amid adversity.</item>
+        <item>A Consul (ESFJ) is a person with the Extraverted, Observant, Feeling, and Judging personality traits. They are attentive and people-focused, and they enjoy taking part in their social community. Their achievements are guided by decisive values, and they willingly offer guidance to others.</item>
+        <item>A Virtuoso (ISTP) is someone with the Introverted, Observant, Thinking, and Prospecting personality traits. They tend to have an individualistic mindset, pursuing goals without needing much external connection. They engage in life with inquisitiveness and personal skill, varying their approach as needed.</item>
+        <item>An Adventurer (ISFP) is a person with the Introverted, Observant, Feeling, and Prospecting personality traits. They tend to have open minds, approaching life, new experiences, and people with grounded warmth. Their ability to stay in the moment helps them uncover exciting potentials.</item>
+        <item>An Entrepreneur (ESTP) is someone with the Extraverted, Observant, Thinking, and Prospecting personality traits. They tend to be energetic and action-oriented, deftly navigating whatever is in front of them. They love uncovering life’s opportunities, whether socializing with others or in more personal pursuits.</item>
+        <item>An Entertainer (ESFP) is a person with the Extraverted, Observant, Feeling, and Prospecting personality traits. These people love vibrant experiences, engaging in life eagerly and taking pleasure in discovering the unknown. They can be very social, often encouraging others into shared activities.</item>
+    </string-array>
+
+    <string-array name="data_people">
+        <item>- Frederich Nietzsche \n- Michelle Obama \n- Elon Musk \n- Christopher Nolan \n- Samantha Power</item>
+        <item>- Bill Gates \n- Kristen Stewart \n- Alber Einstein \n- Avicii \n- Isaac Newton</item>
+        <item>- Steve Jobs \n- Gordon Ramsay \n- Margaret Thatcher \n- Jim Carrey \n- Whoopi Goldberg</item>
+        <item>- Mark Twain \n- Adam Savage \n- Sarah Silverman \n- Tom Hanks \n- Thomas Edison</item>
+        <item>- Mother Teresa \n- Marie Kondo \n- Lady Gaga \n- Nicole Kidman \n- Morgan Freeman</item>
+        <item>- Bjork \n- Alicia Keys \n- William Shakespeare \n- Julia Roberts \n- Johnny Depp</item>
+        <item>- Barack Obama \n- Oprah Winfrey \n- Ben Affleck \n- John Cusack \n- Jennifer Lawrance</item>
+        <item>- Robert Downey Jr. \n- Quentin Tarantino \n- Robin Williams \n- Kelly Clarkson \n- Will Smith</item>
+        <item>- Sting \n- Natalie Portman \n- Anthony Hopkins \n- George Washington \n- Condoleezza Rice</item>
+        <item>- Queen Elizabeth II \n- Beyonce \n- Vin Diesel \n- Kate Middleton \n- Anne Hathaway</item>
+        <item>- Ella Baker \n- Judge Judy \n- Laura Linney \n- James Monroe \n- Frank Sinatra</item>
+        <item>- Taylor Swift \n- Bill Clinton \n- Steve Harvey \n- Jennifer Lopez \n- Tyra Banks</item>
+        <item>- Olivia Wilde \n- Michael Jordan \n- Tom Cruise \n- Michelle Rodriguez \n- Daniel Craig</item>
+        <item>- Lana Del Rey \n- Avril Lavigne \n- Britney Spears \n- Michael Jackson \n- Jessica Alba</item>
+        <item>- Madonna \n- Bruce Willis \n- Jack Nicholson \n- Eddie Murphy \n- Michael J. Fox</item>
+        <item>- Elton John \n- Marilyn Monroe \n- Adele \n- Miley Cyrus \n- Adam Levine</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/architect</item>
+        <item>@drawable/logician</item>
+        <item>@drawable/commander</item>
+        <item>@drawable/debater</item>
+        <item>@drawable/advocate</item>
+        <item>@drawable/mediator</item>
+        <item>@drawable/protagonist</item>
+        <item>@drawable/campaigner</item>
+        <item>@drawable/logistician</item>
+        <item>@drawable/defender</item>
+        <item>@drawable/executive</item>
+        <item>@drawable/consul</item>
+        <item>@drawable/virtuoso</item>
+        <item>@drawable/adventurer</item>
+        <item>@drawable/entrepreneur</item>
+        <item>@drawable/entertainer</item>
+    </integer-array>
+
+
+</resources>
